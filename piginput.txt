@@ -1,0 +1,4 @@
+john,18,4 0f   
+harry,19,3.8f   
+bill,20,3.9f   
+joe,18,3.8f
