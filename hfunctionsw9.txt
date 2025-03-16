@@ -1,0 +1,7 @@
+1, Gaurav,30000
+2, Root,10000
+3, Onin,12000
+4, Akaay,15000
+5, Odin,40000
+6, Hermworth,21000
+7, Lisa,50000
